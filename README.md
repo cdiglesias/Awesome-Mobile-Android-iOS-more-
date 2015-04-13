@@ -66,6 +66,8 @@ Some reference list a mobile creative development.
 * [How to use NSError](http://nshipster.com/nserror/)
 * [Swift Documentation](http://nshipster.com/swift-documentation/)
 * [Autolayout/Constraints 1](http://www.raywenderlich.com/94563/video-tutorial-intro-auto-layout-part-0-introduction)
+* [Tutorial](http://www.brianjcoleman.com/tag/swift-2/)
+
 
 ## Some Awesome Libraries 
 * [Animated Pull to Refresh](https://github.com/JackrabbitMobile/JackrabbitRefresh)
